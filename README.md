@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SergeyMaksakov
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me write me a letter maksakov1@mail.ru
 
